@@ -20,7 +20,7 @@
 #include <sys/mman.h>
 
 // for hubo
-#include "../hubo-ach/hubo.h"
+#include "../include/hubo.h"
 
 // for ach
 #include <errno.h>
